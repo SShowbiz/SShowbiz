@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SShowbiz/SShowbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Seoul National University ECE Student
+
+- Junior ECE Student
+- Taking a leave of absence (for military service: Industrial Technical Personnel)
+
+## Interest
+
+- ML Research/Development
+- Backend Development (Nodejs, Django)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SShowbiz)](https://github.com/anuraghazra/github-readme-stats)
