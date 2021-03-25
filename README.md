@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 ## Seoul National University ECE Student
 
 - Junior ECE Student
-- Taking a leave of absence (for military service: Industrial Technical Personnel)
+- Taking a leave of absence (for military service: Industrial Technical Personnel in [Humanscape](https://www.humanscape.io/kr/index.html))
 
 ## Interest
 
 - ML Research/Development
 - Backend Development (Nodejs, Django)
+
+<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SShowbiz&theme=dracula&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
