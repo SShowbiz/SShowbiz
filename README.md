@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 ## Seoul National University ECE Student
 
 - Junior ECE Student
-- Taking a leave of absence (for military service: Industrial Technical Personnel in [Humanscape](https://www.humanscape.io/kr/index.html))
+- Took a leave of absence (for military service: Industrial Technical Personnel in [Humanscape](https://www.humanscape.io/kr/index.html)) for 2020.04 ~ 2022.06
+- Now SNU [3D Vision Lab](https://3d.snu.ac.kr/) Intern
 
 ## Interest
 
+- Computer Vision (2D & 3D)
 - ML Research/Development
 - Backend Development (Nodejs, Django)
 
