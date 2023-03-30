@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Seoul National University ECE Student
+## Seoul National University ECE Undergraduate Student
 
-- Junior ECE Student
-- Took a leave of absence (for military service: Industrial Technical Personnel in [Humanscape](https://www.humanscape.io/kr/index.html)) for 2020.04 ~ 2022.06
-- [SNU 3D Vision Lab](https://3d.snu.ac.kr/) Internship for 2022.06 ~ 2022.12
-- Now [Naver Webtoon](https://webtoonscorp.com/) Applied AI Researcher Internship 
+- [2020.04 - 2022.06] [Humanscape](https://www.humanscape.io/kr/index.html) Software Engineer (for military service: Industrial Technical Personnel)
+- [2022.06 - 2022.12] [SNU 3D Vision Lab](https://3d.snu.ac.kr/) Graduation Research Internship 
+- [2023.01 - 2023.03] [Naver Webtoon](https://webtoonscorp.com/) Applied AI Researcher Internship for 
+- [2023.03 - Current ] [SNU Visual Computing Lab](https://jhugestar.github.io/) Part Time Internship + taking last semester as an undergraduate.
 
-## Interest
+## Interests
 
-- Computer Vision (2D & 3D)
-- ML Research/Development
+- Computer Vision Research & Development (2D & 3D)
+  - 2D generation tasks (GAN, Diffusion) 
+  - 3D stylization, generation tasks
 - Backend Development (Django, Node.js)
 
 <br/>
