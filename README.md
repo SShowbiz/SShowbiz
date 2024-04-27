@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## SNU Visual Computing Lab Research Intern
+## SNU Visual Computing Lab MS/PhD Student
 
 - [2020.04 - 2022.06] [Humanscape](https://www.humanscape.io/kr/index.html) Software Engineer (for military service: Industrial Technical Personnel)
 - [2022.06 - 2022.12] [SNU 3D Vision Lab](https://3d.snu.ac.kr/) Graduation Research Internship 
