@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 ## SNU Visual Computing Lab MS/PhD Student
 
-- [2020.04 - 2022.06] [Humanscape](https://www.humanscape.io/kr/index.html) Software Engineer (for military service: Industrial Technical Personnel)
-- [2022.06 - 2022.12] [SNU 3D Vision Lab](https://3d.snu.ac.kr/) Graduation Research Internship 
+- [2023.03 - Current] [SNU Visual Computing Lab](https://jhugestar.github.io/) Research Intern $\to$ MS/PhD Student
 - [2023.01 - 2023.03] [Naver Webtoon](https://webtoonscorp.com/) Applied AI Researcher Internship
-- [2023.03 - Current] [SNU Visual Computing Lab](https://jhugestar.github.io/) 3D AI Researcher Internship (Generation, Stylization, Human Object Interaction)
+- [2022.06 - 2022.12] [SNU 3D Vision Lab](https://3d.snu.ac.kr/) Graduation Research Internship 
+- [2020.04 - 2022.06] [Humanscape](https://www.humanscape.io/kr/index.html) Software Engineer (for military service: Industrial Technical Personnel)
 
 ## Interests
 
-- Computer Vision Research & Development (2D & 3D)
-  - 2D generation tasks (GAN, Diffusion) 
-  - 3D stylization, generation tasks
-  - Human Object Interaction
+- Computer Vision Research
+  - Affordance, Human Object Interaction
+  - Human & Object Digitalization
+  - Generative Modeling
 - Backend Development (Django, Node.js)
 
 <br/>
